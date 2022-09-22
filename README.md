@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @pemrogramanjon
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+pemrogramanjon/pemrogramanjon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I want to build an aplication of CRUD data students of smkn1sbg.
+by,, C++
+by,, Mysql contribute with web server 
